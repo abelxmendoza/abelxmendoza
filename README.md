@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abel Mendoza
 - 👀 I’m interested in tech, web3, MMA, HomeBrewing, Investing, Anime, Film
 - 🌱 I’m currently learning HTML, CSS, javaScript, and React
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Web3
 - 📫 How to reach me: 
   
   Email: abelxmendoza@gmail.com
