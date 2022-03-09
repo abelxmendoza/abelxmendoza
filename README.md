@@ -7,6 +7,10 @@
   Email: abelxmendoza@gmail.com
   Phone: 562-322-2299
   
+  -Links
+    https://stackblitz.com/@abelxmendoza
+    https://replit.com/@AbelMendoza
+  
 
 
 <!---
