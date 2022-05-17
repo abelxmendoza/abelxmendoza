@@ -7,7 +7,7 @@ Full Stack Web Developer
 * 🌍  Los Angeles, California
 * 👀  I’m interested in tech, MMA, Investing, Anime, Film
 * 🧠  I'm learning JavaScript, React, HTML, CSS, and Web3 concepts
-* 🤝  I'm open to collaborating on Decentralized Applications and Web3
+* 🤝  I'm open to collaborating on Decentralized Applications 
 * ✉️  Email me: [abelxmendoza@gmail.com](mailto:abelxmendoza@gmail.com)
 * 📞  Call me: 562-322-2299
 * ⚡  Luffy is the man who will become pirate king
