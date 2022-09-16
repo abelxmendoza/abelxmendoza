@@ -38,7 +38,7 @@ Full Stack Web Developer
 
 * 🔗https://stackblitz.com/@abelxmendoza
 * 🔗https://replit.com/@AbelMendoza
-
+* 🔗https://learnweb3.io/profiles/abelxmendoza
 
 <!---
 abelxmendoza/abelxmendoza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
