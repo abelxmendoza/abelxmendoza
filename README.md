@@ -1,13 +1,13 @@
 Hola 👋 I'm Abel Mendoza
 =============================
 
-Full Stack Web Developer
+Full Stack Software Engineer
 ------------------------
 
 * 🌍  Los Angeles, California
-* 👀  I’m interested in tech, MMA, Investing, Anime, Film
-* 🧠  I'm learning JavaScript, React, Python, C++, and Robotics 
-* 🤝  I'm open to collaborating on Automation and Robotics projects 
+* 👀  I’m interested in Tech, Robots, MMA, Investing, Anime, and Film
+* 🧠  I'm learning JavaScript, React, Python, C++, and Robot Operating System(ROS) Robotics
+* 🤝  I'm open to collaborating on Automation, Robotics, and Microcontroller projects 
 * ✉️  Email me: [abelxmendoza@gmail.com](mailto:abelxmendoza@gmail.com)
 * ⚡  Luffy is the man who will become pirate king
 
