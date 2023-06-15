@@ -1,7 +1,10 @@
 Hola 👋 I'm Abel Mendoza
 =============================
 
-![binary robot](https://media.giphy.com/media/Tz30dcgKE3GCTYpxol/giphy.gif)
+<h1 align="center">
+  <img src="https://media.giphy.com/media/Tz30dcgKE3GCTYpxol/giphy.gif" alt="binary robot" width="500" />
+</h1>
+
 
 
 Full Stack Software Engineer
