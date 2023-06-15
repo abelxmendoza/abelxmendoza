@@ -1,6 +1,9 @@
 Hola 👋 I'm Abel Mendoza
 =============================
 
+![binary robot](https://media.giphy.com/media/Tz30dcgKE3GCTYpxol/giphy.gif)
+
+
 Full Stack Software Engineer
 ------------------------
 
