@@ -1,9 +1,10 @@
 Hola 👋 I'm Abel Mendoza
 =============================
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/Tz30dcgKE3GCTYpxol/giphy.gif" alt="binary robot" width="500" />
-</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/Tz30dcgKE3GCTYpxol/giphy.gif" alt="binary robot" style="max-width: 500px; width: 100%;" />
+</div>
+
 
 
 
