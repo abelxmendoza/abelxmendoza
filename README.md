@@ -3,7 +3,7 @@ Hola 👋 I'm Abel Mendoza
 Full Stack Software Engineer
 ------------------------
 
-<div align="center">
+<div>
   <img src="https://media.giphy.com/media/Tz30dcgKE3GCTYpxol/giphy.gif" alt="binary robot" style="max-width: 900px; width: 500; height:300px;" />
 </div>
 
