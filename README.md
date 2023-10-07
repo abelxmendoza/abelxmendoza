@@ -36,7 +36,7 @@ Full Stack Software Engineer
 * 🔗https://app.theconstructsim.com/Profile/abelxmendoza
 * 🔗https://learnweb3.io/profiles/abelxmendoza
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abelxmendoza&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abelxmendoza&langs_count=7&theme=tokyonight)]()
 <!---
 abelxmendoza/abelxmendoza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
