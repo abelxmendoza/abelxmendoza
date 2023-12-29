@@ -43,8 +43,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
+
 <!--START_SECTION:duolingoStats-->
+
 <!--END_SECTION:duolingoStats-->
-
-
-
