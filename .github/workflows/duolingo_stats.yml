@@ -1,0 +1,19 @@
+name: Duolingo README Stats
+
+on:
+  push:
+    branches:
+      - main  # Or your default branch name if it's not 'main'
+  schedule:
+    - cron: '0 0 * * *'  # Runs every day at midnight. Adjust as necessary.
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Duolingo.com Stats
+        uses: abel_bagel/duolingo-readme-stats@v1.0.0
+        # Add any required configurations for the action here
