@@ -44,18 +44,6 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--START_SECTION:duolingoStats-->
-<!-- Automatically generated with https://github.com/centrumek/duolingo-readme-stats-->
-
-| Username | Day Streak | Total XP |
-|:---:|:---:|:---:|
-| 👤 Centrumek | 🔥 349 | ⚡ 26856 |
-
-| Language | Level | XP |
-|:---:|:---:|:---:|
-| 🇪🇸 Spanish | 👑 80 | ⚡ 10654 |
-| 🇺🇦 Ukrainian | 👑 41 | ⚡ 10848 |
-| 🇯🇵 Japanese | 👑 9 | ⚡ 5354 |
-
 <!--END_SECTION:duolingoStats-->
 
 
