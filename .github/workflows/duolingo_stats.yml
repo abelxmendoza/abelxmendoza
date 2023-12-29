@@ -15,5 +15,5 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Duolingo.com Stats
-        uses: abel_bagel/duolingo-readme-stats@v1.0.0
+        uses: centrumek/duolingo-readme-stats@v1.0.0
         # Add any required configurations for the action here
