@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-
+### Duolingo Stats
 <!--START_SECTION:duolingoStats-->
 <!-- Automatically generated with https://github.com/centrumek/duolingo-readme-stats-->
 
