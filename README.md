@@ -45,5 +45,20 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--START_SECTION:duolingoStats-->
+<!-- Automatically generated with https://github.com/centrumek/duolingo-readme-stats-->
+
+| Username | Day Streak | Total XP |
+|:---:|:---:|:---:|
+| 👤 abel_bagel | 🔥 296 | ⚡ 48932 |
+
+| Language | Level | XP |
+|:---:|:---:|:---:|
+| 🇪🇸 Spanish | 👑 477 | ⚡ 13742 |
+| 🇮🇹 Italian | 👑 21 | ⚡ 7035 |
+| 🇯🇵 Japanese | 👑 43 | ⚡ 22310 |
+| 🇰🇷 Korean | 👑 17 | ⚡ 5663 |
+| 🇯🇴 Arabic | 👑 0 | ⚡ 139 |
+| undefined High Valyrian | 👑 0 | ⚡ 13 |
+| 🇵🇹 Portuguese | 👑 0 | ⚡ 30 |
 
 <!--END_SECTION:duolingoStats-->
