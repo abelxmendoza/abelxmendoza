@@ -9,11 +9,6 @@ Full Stack Software Engineer
 </div>
 
 
-
-<div>
-  <img src="https://media.giphy.com/media/Tz30dcgKE3GCTYpxol/giphy.gif" alt="binary robot" style="max-width: 1000px; width: 500; height:300px;" />
-</div>
-
 * 🌍  Los Angeles, California
 * 👀  I’m interested in Tech, Robots, MMA, Investing, Anime, and Film
 * 🧠  I'm learning JavaScript, React, Python, C++, and Robot Operating System(ROS) Robotics
