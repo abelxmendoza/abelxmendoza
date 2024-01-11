@@ -3,6 +3,14 @@ Hola 👋 I'm Abel Mendoza
 Full Stack Software Engineer
 ------------------------
 
+![ComputerLove](https://media.giphy.com/media/56j0q3Xb3c8a7Ueslr/giphy.gif)
+
+<div>
+  <img src="https://media.giphy.com/media/56j0q3Xb3c8a7Ueslr/giphy.gif" alt="ComputerLove" style="max-width: 900px; width: 500px; height:300px;" />
+</div>
+
+
+
 <div>
   <img src="https://media.giphy.com/media/Tz30dcgKE3GCTYpxol/giphy.gif" alt="binary robot" style="max-width: 900px; width: 500; height:300px;" />
 </div>
