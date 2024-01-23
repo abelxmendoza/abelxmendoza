@@ -55,8 +55,8 @@ You can click the Preview link to take a look at your changes.
 
 | Language | Level | XP |
 |:---:|:---:|:---:|
-| 🇵🇹 Portuguese | 👑 9 | ⚡ 1934 |
 | 🇪🇸 Spanish | 👑 498 | ⚡ 16283 |
+| 🇵🇹 Portuguese | 👑 9 | ⚡ 1934 |
 | 🇰🇷 Korean | 👑 17 | ⚡ 5769 |
 | 🇯🇵 Japanese | 👑 43 | ⚡ 23494 |
 | 🇮🇹 Italian | 👑 25 | ⚡ 7549 |
