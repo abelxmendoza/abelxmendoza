@@ -51,11 +51,11 @@ You can click the Preview link to take a look at your changes.
 
 | Username | Day Streak | Total XP |
 |:---:|:---:|:---:|
-| 👤 abel_bagel | 🔥 463 | ⚡ 75681 |
+| 👤 abel_bagel | 🔥 464 | ⚡ 75696 |
 
 | Language | Level | XP |
 |:---:|:---:|:---:|
-| 🇪🇸 Spanish | 👑 0 | ⚡ 22921 |
+| 🇪🇸 Spanish | 👑 0 | ⚡ 22936 |
 | 🇯🇵 Japanese | 👑 0 | ⚡ 33140 |
 | 🇷🇺 Russian | 👑 0 | ⚡ 301 |
 | 🇮🇹 Italian | 👑 0 | ⚡ 10012 |
