@@ -87,7 +87,7 @@ You can click the Preview link to take a look at your changes.
 
 | Username | Day Streak | Total XP |
 |:---:|:---:|:---:|
-| 👤 abel_bagel | 🔥 536 | ⚡ 99331 |
+| 👤 abel_bagel | 🔥 537 | ⚡ 99331 |
 
 | Language | Level | XP |
 |:---:|:---:|:---:|
