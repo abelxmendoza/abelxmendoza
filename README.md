@@ -91,10 +91,10 @@ You can click the Preview link to take a look at your changes.
 
 | Language | Level | XP |
 |:---:|:---:|:---:|
+| 🇨🇳 Chinese | 👑 0 | ⚡ 3224 |
 | 🇯🇵 Japanese | 👑 0 | ⚡ 39157 |
 | 🇮🇹 Italian | 👑 0 | ⚡ 12677 |
 | 🇰🇷 Korean | 👑 0 | ⚡ 7822 |
-| 🇨🇳 Chinese | 👑 0 | ⚡ 3224 |
 | 🇪🇸 Spanish | 👑 0 | ⚡ 34625 |
 | 🇵🇹 Portuguese | 👑 0 | ⚡ 3161 |
 | 🇷🇺 Russian | 👑 0 | ⚡ 459 |
