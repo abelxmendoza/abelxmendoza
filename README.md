@@ -87,14 +87,14 @@ You can click the Preview link to take a look at your changes.
 
 | Username | Day Streak | Total XP |
 |:---:|:---:|:---:|
-| 👤 abel_bagel | 🔥 586 | ⚡ 107697 |
+| 👤 abel_bagel | 🔥 587 | ⚡ 107876 |
 
 | Language | Level | XP |
 |:---:|:---:|:---:|
-| 🇯🇵 Japanese | 👑 0 | ⚡ 41800 |
-| 🇪🇸 Spanish | 👑 0 | ⚡ 35644 |
+| 🇮🇹 Italian | 👑 0 | ⚡ 13100 |
+| 🇪🇸 Spanish | 👑 0 | ⚡ 35694 |
+| 🇯🇵 Japanese | 👑 0 | ⚡ 41879 |
 | 🇵🇹 Portuguese | 👑 0 | ⚡ 3477 |
-| 🇮🇹 Italian | 👑 0 | ⚡ 13050 |
 | 🇰🇷 Korean | 👑 0 | ⚡ 9841 |
 | 🇨🇳 Chinese | 👑 0 | ⚡ 3274 |
 | 🇷🇺 Russian | 👑 0 | ⚡ 459 |
