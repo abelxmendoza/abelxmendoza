@@ -1,85 +1,60 @@
-Hola 👋 I'm Abel Mendoza
-=============================
-Full Stack Robotics Software Engineer
-------------------------
+<div align="center">
 
+# Abel Mendoza
+### Robotics & Embedded Systems Engineer
 
-<div>
-  <img src="https://media.giphy.com/media/56j0q3Xb3c8a7Ueslr/giphy.gif" alt="ComputerLove" style="max-width: 900px; width: 500px; height:300px;" />
+<img src="https://media.giphy.com/media/56j0q3Xb3c8a7Ueslr/giphy.gif" alt="ComputerLove" style="max-width: 900px; width: 500px; height:300px;" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=abelxmendoza&color=blue&style=flat)
+
 </div>
 
-
-* 🌍  Los Angeles, California
-* 👀  I’m interested in Tech, Robots, MMA, Investing, Anime, Film, and Languages
-* 🧠  I'm learning Artificial Intelligence, Machine Learning, Deep Learning, and Robot Operating System(ROS) Robotics
-* 🤝  I'm open to collaborating on Automation, Robotics, and Microcontroller projects 
-* ✉️  Email me: [abelxmendoza@gmail.com](mailto:abelxmendoza@gmail.com)
+* 🌍  Southern California
+* 👀  I'm interested in UAV systems, autonomous robotics, embedded hardware, MMA, Anime, Languages, Investing, and Books
+* 🧠  Building with ROS2, PX4, MAVSDK, and embedded Linux on Jetson and Raspberry Pi
+* 🤝  Open to collaborating on UAV autonomy, embedded systems, and robotics projects
+* ✉️  [abelxmendoza@gmail.com](mailto:abelxmendoza@gmail.com)
+* 🌐  abelxmendoza.com
 * ⚡  Luffy is the man who will become pirate king
-
-
 
 ### Skills
 
 <p>
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript" /></a>
-    <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="40" height="40" alt="C++" /></a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" /></a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React" /></a>
-    <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" width="40" height="40" alt="NextJs" /></a>
-    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3" /></a>
-    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="40" height="40" alt="Bootstrap" /></a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="40" height="40" alt="Firebase" /></a>
-    <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="40" height="40" alt="C" /></a>
-    <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="40" height="40" alt="Go" /></a>
-    <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" width="40" height="40" alt="Rust" /></a>
-</p>
-<p>
-    <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="40" height="40" alt="Swift" /></a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" height="40" alt="TypeScript" /></a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="40" height="40" alt="GNU Bash" /></a>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="40" height="40" alt="VS Code" /></a>
-    <a href="https://www.xcode.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode.svg" width="40" height="40" alt="XCode" /></a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="40" height="40" alt="TailwindCSS" /></a>
-    <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="40" height="40" alt="Redux" /></a>
-    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40" alt="NodeJS" /></a>
-    <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" width="40" height="40" alt="Express" /></a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="40" height="40" alt="MongoDB" /></a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" alt="MySQL" /></a>
-    <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="40" height="40" alt="Heroku" /></a>
-    <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" width="40" height="40" alt="Flask" /></a>
-</p>
-<p>
-    <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="40" height="40" alt="Ethereum" /></a>
-    <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="40" height="40" alt="Linux" /></a>
-    <a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" width="40" height="40" alt="MacOS" /></a>
-    <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="40" height="40" alt="Raspberry Pi" /></a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="40" height="40" alt="Docker" /></a>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="40" height="40" alt="Django" /></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python" /></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="40" height="40" alt="C++" /></a>
+  <a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="40" height="40" alt="C" /></a>
+  <a href="https://go.dev/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="40" height="40" alt="Go" /></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="40" height="40" alt="Bash" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="40" height="40" alt="Docker" /></a>
+  <a href="https://www.linux.org" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="40" height="40" alt="Linux" /></a>
+  <a href="https://www.raspberrypi.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="40" height="40" alt="Raspberry Pi" /></a>
+  <a href="https://www.ros.org/" target="_blank"><img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" width="40" height="40" alt="ROS2" /></a>
+  <a href="https://px4.io/" target="_blank"><img src="https://img.shields.io/badge/PX4-5A0FC8?style=for-the-badge&logo=px4&logoColor=white" width="40" height="40" alt="PX4" /></a>
+  <a href="https://gazebosim.org/" target="_blank"><img src="https://img.shields.io/badge/Gazebo-F58113?style=for-the-badge&logoColor=white" width="40" height="40" alt="Gazebo" /></a>
+  <a href="https://mavlink.io/" target="_blank"><img src="https://img.shields.io/badge/MAVLink-0067A5?style=for-the-badge&logoColor=white" width="40" height="40" alt="MAVLink" /></a>
+  <a href="https://mavsdk.mavlink.io/" target="_blank"><img src="https://img.shields.io/badge/MAVSDK-0067A5?style=for-the-badge&logoColor=white" width="40" height="40" alt="MAVSDK" /></a>
+  <a href="https://opencv.org/" target="_blank"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" width="40" height="40" alt="OpenCV" /></a>
+  <a href="https://www.intelrealsense.com/" target="_blank"><img src="https://img.shields.io/badge/RealSense-0071C5?style=for-the-badge&logoColor=white" width="40" height="40" alt="RealSense" /></a>
+  <a href="https://developer.nvidia.com/embedded-computing" target="_blank"><img src="https://img.shields.io/badge/Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white" width="40" height="40" alt="Jetson" /></a>
+  <a href="https://www.arduino.cc/" target="_blank"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" width="40" height="40" alt="Arduino" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" height="40" alt="TypeScript" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript" /></a>
+  <a href="https://developer.apple.com/swift/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="40" height="40" alt="Swift" /></a>
+  <a href="https://www.qgroundcontrol.com/" target="_blank"><img src="https://img.shields.io/badge/QGroundControl-FF0000?style=for-the-badge&logoColor=white" width="40" height="40" alt="QGroundControl" /></a>
+  <a href="https://ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" width="40" height="40" alt="Ubuntu" /></a>
 </p>
 
-
-
-
-              
-                    
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/abelxmendoza" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/abelxmendoza/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/abelxmendoza" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left">
+  <a href="https://www.github.com/abelxmendoza" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+  <a href="https://www.linkedin.com/in/abelxmendoza/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="https://abelxmendoza.com" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=About.me&logoColor=white" height="32" alt="Website" /></a>
+</p>
 
-
-* 🔗https://stackblitz.com/@abelxmendoza
-* 🔗https://replit.com/@AbelMendoza
-* 🔗https://app.theconstructsim.com/Profile/abelxmendoza
-* 🔗https://learnweb3.io/profiles/abelxmendoza
-
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abelxmendoza&show_icons=true&theme=tokyonight)](https://github.com/abelxmendoza)
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abelxmendoza&langs_count=10&theme=tokyonight)](https://github.com/abelxmendoza)
-<!---
-abelxmendoza/abelxmendoza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 
 ### Duolingo Stats
 <!--START_SECTION:duolingoStats-->
