@@ -55,6 +55,12 @@
   <a href="https://abelxmendoza.com" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=About.me&logoColor=white" height="32" alt="Website" /></a>
 </p>
 
+### What I'm coding right now
+
+<!-- agent-presence:start -->
+<a href="https://abelxmendoza.github.io/discord-agent-presence/"><img src="https://raw.githubusercontent.com/abelxmendoza/abelxmendoza/agent-presence-status/status.svg" alt="What I'm coding right now" width="480"></a>
+<!-- agent-presence:end -->
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abelxmendoza&show_icons=true&theme=tokyonight)](https://github.com/abelxmendoza)
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abelxmendoza&langs_count=10&theme=tokyonight)](https://github.com/abelxmendoza)
