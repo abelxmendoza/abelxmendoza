@@ -1,0 +1,85 @@
+{
+ "v": 2,
+ "updated": 1792885826,
+ "name": "abelxmendoza",
+ "tool": "muse",
+ "tools": [
+  {
+   "id": "muse",
+   "name": "Muse Code"
+  },
+  {
+   "id": "claude",
+   "name": "Claude"
+  },
+  {
+   "id": "chatgpt",
+   "name": "ChatGPT"
+  }
+ ],
+ "verb": "Playing",
+ "title": "Coding",
+ "headline": "⏳ 1 agent waiting",
+ "mood": "waiting",
+ "image": "https://raw.githubusercontent.com/abelxmendoza/discord-agent-presence/main/images/muse_waiting.jpg",
+ "agents": [
+  {
+   "tool": "muse",
+   "tool_name": "Muse Code",
+   "status": "waiting",
+   "action": "⏳ waiting for me",
+   "project": null,
+   "model": null
+  }
+ ],
+ "projects": [],
+ "machines": [
+  {
+   "label": "MacBook Pro",
+   "icon": "💻",
+   "os": "macOS 27",
+   "agents": 1
+  }
+ ],
+ "today": {
+  "agent_seconds": 1429,
+  "commits": 0
+ },
+ "streak": 3,
+ "model": null,
+ "last_active": "now",
+ "highlights": [
+  {
+   "key": "streak",
+   "value": "3 days",
+   "label": "coding streak"
+  },
+  {
+   "key": "best_streak",
+   "value": "3 days",
+   "label": "best streak"
+  },
+  {
+   "key": "week_hours",
+   "value": "17h",
+   "label": "coding this week"
+  },
+  {
+   "key": "week_commits",
+   "value": 4,
+   "label": "commits this week"
+  },
+  {
+   "key": "month_commits",
+   "value": 4,
+   "label": "commits, 30 days"
+  },
+  {
+   "key": "active_days",
+   "value": "3/30",
+   "label": "days coded"
+  }
+ ],
+ "landing": "https://abelxmendoza.github.io/discord-agent-presence/",
+ "state": "coding"
+}
