@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="290" viewBox="0 0 480 290" role="img" aria-label="abelxmendoza is vibe coding">
+<style>text{font-family:"Segoe UI",Ubuntu,"Helvetica Neue",Arial,sans-serif;fill:#dbdee1}.h{font-size:17px;font-weight:700;fill:#f2f3f5}.s{font-size:12.5px;fill:#949ba4}.big{font-size:14px;font-weight:600;fill:#f2f3f5}.row{font-size:13.5px}.dim{font-size:12.5px;fill:#b5bac1}.f{font-size:11px;fill:#6d6f78}.v{font-size:15px;font-weight:700;fill:#f2f3f5}.l{font-size:11px;fill:#949ba4}@keyframes p{50%{opacity:.35}}.live{animation:p 2s ease-in-out infinite}</style>
+<rect x=".5" y=".5" width="479" height="289" rx="12" fill="#111214" stroke="#2b2d31"/>
+<rect x="1" y="1" width="478" height="4" rx="2" fill="url(#g)"/>
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#f97316"/><stop offset=".5" stop-color="#db2777"/><stop offset="1" stop-color="#14b8a6"/></linearGradient></defs>
+<circle cx="26" cy="32" r="6" fill="#23a55a" class="live"/>
+<text class="h" x="40" y="38">abelxmendoza is vibe coding</text>
+<text class="s" x="40" y="58">Playing Vibe Coding · Claude, Muse Code, ChatGPT</text>
+<text class="big" x="20" y="92">⚡ 1 agent working</text>
+<text class="row" x="20" y="114">⚡ working</text>
+<text class="row" x="20" y="136">💻 MacBook Pro (macOS 27)</text>
+<rect x="20.0" y="150" width="141.3" height="46" rx="8" fill="#1a1b1e" stroke="#2b2d31"/><text class="v" x="30.0" y="171">10 days</text><text class="l" x="30.0" y="187">coding streak</text>
+<rect x="169.3" y="150" width="141.3" height="46" rx="8" fill="#1a1b1e" stroke="#2b2d31"/><text class="v" x="179.3" y="171">10 days</text><text class="l" x="179.3" y="187">best streak</text>
+<rect x="318.7" y="150" width="141.3" height="46" rx="8" fill="#1a1b1e" stroke="#2b2d31"/><text class="v" x="328.7" y="171">13h</text><text class="l" x="328.7" y="187">coding this week</text>
+<rect x="20.0" y="204" width="141.3" height="46" rx="8" fill="#1a1b1e" stroke="#2b2d31"/><text class="v" x="30.0" y="225">4</text><text class="l" x="30.0" y="241">commits, 30 days</text>
+<rect x="169.3" y="204" width="141.3" height="46" rx="8" fill="#1a1b1e" stroke="#2b2d31"/><text class="v" x="179.3" y="225">10/30</text><text class="l" x="179.3" y="241">days coded</text>
+<text class="f" x="20" y="276">live</text>
+<text class="f" x="460" y="276" text-anchor="end">🤖 agent-presence</text>
+</svg>
