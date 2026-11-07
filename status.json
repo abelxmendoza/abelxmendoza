@@ -1,0 +1,58 @@
+{
+ "v": 2,
+ "updated": 1794038400,
+ "name": "abelxmendoza",
+ "tool": null,
+ "tools": [],
+ "verb": null,
+ "title": null,
+ "headline": null,
+ "mood": "idle",
+ "image": null,
+ "agents": [],
+ "projects": [],
+ "machines": [],
+ "today": {},
+ "streak": 17,
+ "model": null,
+ "last_active": "today",
+ "highlights": [
+  {
+   "key": "streak",
+   "value": "17 days",
+   "label": "coding streak"
+  },
+  {
+   "key": "best_streak",
+   "value": "17 days",
+   "label": "best streak"
+  },
+  {
+   "key": "week_hours",
+   "value": "27h",
+   "label": "coding this week"
+  },
+  {
+   "key": "week_commits",
+   "value": 9,
+   "label": "commits this week"
+  },
+  {
+   "key": "month_commits",
+   "value": 13,
+   "label": "commits, 30 days"
+  },
+  {
+   "key": "active_days",
+   "value": "17/30",
+   "label": "days coded"
+  },
+  {
+   "key": "top_project",
+   "value": "RobotForge-Hackathon",
+   "label": "top project, 7 days"
+  }
+ ],
+ "landing": "https://abelxmendoza.github.io/discord-agent-presence/",
+ "state": "idle"
+}
