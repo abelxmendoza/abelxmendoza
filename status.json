@@ -1,0 +1,95 @@
+{
+ "v": 2,
+ "updated": 1794693438,
+ "name": "abelxmendoza",
+ "tool": "muse",
+ "tools": [
+  {
+   "id": "muse",
+   "name": "Muse Code"
+  },
+  {
+   "id": "claude",
+   "name": "Claude"
+  },
+  {
+   "id": "chatgpt",
+   "name": "ChatGPT"
+  }
+ ],
+ "verb": "Watching",
+ "title": "Vibe Coding",
+ "headline": "⚡ 1 agent working",
+ "mood": "cooking",
+ "image": "https://raw.githubusercontent.com/abelxmendoza/discord-agent-presence/main/images/muse_cooking.jpg",
+ "agents": [
+  {
+   "tool": "muse",
+   "tool_name": "Muse Code",
+   "status": "busy",
+   "action": "⚡ working",
+   "project": null,
+   "model": null
+  }
+ ],
+ "projects": [],
+ "machines": [
+  {
+   "label": "MacBook Pro",
+   "icon": "💻",
+   "os": "macOS 27",
+   "agents": 1
+  }
+ ],
+ "today": {
+  "agent_seconds": 11571,
+  "commits": 0
+ },
+ "streak": 24,
+ "model": null,
+ "last_active": "now",
+ "highlights": [
+  {
+   "key": "streak",
+   "value": "24 days",
+   "label": "coding streak"
+  },
+  {
+   "key": "best_streak",
+   "value": "24 days",
+   "label": "best streak"
+  },
+  {
+   "key": "week_hours",
+   "value": "29h",
+   "label": "coding this week"
+  },
+  {
+   "key": "week_commits",
+   "value": 16,
+   "label": "commits this week"
+  },
+  {
+   "key": "month_commits",
+   "value": 29,
+   "label": "commits, 30 days"
+  },
+  {
+   "key": "active_days",
+   "value": "24/30",
+   "label": "days coded"
+  },
+  {
+   "key": "tests",
+   "value": "10",
+   "label": "tests passed, 30d"
+  },
+  {
+   "key": "top_project",
+   "value": "RobotForge",
+   "label": "top project, 7 days"
+  }
+ ],
+ "landing": "https://abelxmendoza.github.io/discord-agent-presence/",
+ "state": "vibe-coding"
+}
