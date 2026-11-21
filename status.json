@@ -1,0 +1,77 @@
+{
+ "v": 2,
+ "schema_version": 2,
+ "updated": 1795248000,
+ "published_at": "2026-11-21T13:30:18Z",
+ "heartbeat_at": "2026-11-21T13:30:18Z",
+ "tracking_since": "2026-10-22",
+ "machine_reachable": true,
+ "human_active": "unknown",
+ "agent_executing": false,
+ "agent_waiting": false,
+ "name": "abelxmendoza",
+ "tool": null,
+ "tools": [],
+ "verb": null,
+ "title": null,
+ "headline": null,
+ "mood": "idle",
+ "image": null,
+ "agents": [],
+ "projects": [],
+ "machines": [],
+ "today": {},
+ "streak": 31,
+ "model": null,
+ "last_active": "2026-11-21T13:12:04Z",
+ "highlights": [
+  {
+   "key": "streak",
+   "value": "31 days",
+   "label": "coding streak"
+  },
+  {
+   "key": "best_streak",
+   "value": "31 days",
+   "label": "best streak"
+  },
+  {
+   "key": "active_days",
+   "value": "31",
+   "label": "days coded"
+  },
+  {
+   "key": "week_hours",
+   "value": "9h",
+   "label": "coding this week"
+  },
+  {
+   "key": "week_commits",
+   "value": 27,
+   "label": "commits this week"
+  },
+  {
+   "key": "month_commits",
+   "value": 57,
+   "label": "commits, 30 days"
+  },
+  {
+   "key": "tests",
+   "value": "11",
+   "label": "tests passed, 30d"
+  },
+  {
+   "key": "top_project",
+   "value": "RobotForge",
+   "label": "top project, 7 days"
+  }
+ ],
+ "landing": "https://abelxmendoza.github.io/discord-agent-presence/",
+ "streak_source": "union",
+ "streak_days_total": 31,
+ "streak_provenance": {
+  "github": 4,
+  "daemon:87a8cc6cdedb": 30
+ },
+ "state": "idle"
+}
