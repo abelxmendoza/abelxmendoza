@@ -1,0 +1,102 @@
+{
+ "v": 2,
+ "schema_version": 2,
+ "updated": 1795889069,
+ "published_at": "2026-11-28T18:04:29Z",
+ "heartbeat_at": "2026-11-28T18:04:29Z",
+ "tracking_since": "2026-10-22",
+ "machine_reachable": true,
+ "human_active": false,
+ "agent_executing": false,
+ "agent_waiting": true,
+ "name": "abelxmendoza",
+ "tool": "muse",
+ "tools": [
+  {
+   "id": "muse",
+   "name": "Muse Code"
+  },
+  {
+   "id": "claude",
+   "name": "Claude"
+  }
+ ],
+ "verb": "Playing",
+ "title": "Coding",
+ "headline": "⏳ 1 agent waiting",
+ "mood": "waiting",
+ "image": "https://raw.githubusercontent.com/abelxmendoza/discord-agent-presence/main/images/muse_waiting.jpg",
+ "agents": [
+  {
+   "tool": "muse",
+   "tool_name": "Muse Code",
+   "status": "waiting",
+   "action": "⏳ waiting for me",
+   "project": null,
+   "model": null
+  }
+ ],
+ "projects": [],
+ "machines": [
+  {
+   "label": "MacBook Pro",
+   "icon": "💻",
+   "os": "macOS 27",
+   "agents": 1,
+   "id": "87a8cc6cdedb",
+   "last_seen_at": "2026-11-28T18:04:29Z"
+  }
+ ],
+ "today": {
+  "agent_seconds": 0,
+  "commits": 0
+ },
+ "streak": 3,
+ "model": null,
+ "last_active": "2026-11-28T17:03:46Z",
+ "highlights": [
+  {
+   "key": "streak",
+   "value": "3 days",
+   "label": "coding streak"
+  },
+  {
+   "key": "best_streak",
+   "value": "34 days",
+   "label": "best streak"
+  },
+  {
+   "key": "active_days",
+   "value": "37",
+   "label": "days coded"
+  },
+  {
+   "key": "week_hours",
+   "value": "4h",
+   "label": "coding this week"
+  },
+  {
+   "key": "month_commits",
+   "value": 54,
+   "label": "commits, 30 days"
+  },
+  {
+   "key": "tests",
+   "value": "11",
+   "label": "tests passed, 30d"
+  },
+  {
+   "key": "top_project",
+   "value": "MacGuardianProject",
+   "label": "top project, 7 days"
+  }
+ ],
+ "landing": "https://abelxmendoza.github.io/discord-agent-presence/",
+ "streak_source": "union",
+ "streak_days_total": 37,
+ "streak_provenance": {
+  "daemon:87a8cc6cdedb": 36,
+  "github": 10
+ },
+ "state": "waiting"
+}
